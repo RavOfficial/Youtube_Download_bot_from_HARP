@@ -1,4 +1,4 @@
-# Youtube Dl bot 😉
+# This is Youtube Dl bot 😉
 ## Prerequisite
     ffmpeg
   
@@ -13,7 +13,9 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [HasibulKabir](https://telegram.dog/HasibulKabir)
+* [Spechide](https://telegram.dog/SpEcHIDe) for his [Youtube Dl bot 😇](https://github.com/dasunpamod/Youtube-Downloader-Bot)
+
+##Contact me
+* [Bawwa_Official](https://telegram.dog/Official_Bawwa)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialBawwa/Youtube-Downloader-Bot)
