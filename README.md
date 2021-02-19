@@ -13,7 +13,7 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [Youtube Dl bot 😇](https://github.com/dasunpamod/Youtube-Downloader-Bot)
+* [Dasun Pamod](https://telegram.dog/dasun_pamod) for his [Youtube Dl bot 😇](https://github.com/dasunpamod/Youtube-Downloader-Bot)
 
 ##Contact me
 * [Bawwa_Official](https://telegram.dog/Official_Bawwa)
