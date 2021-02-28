@@ -1,13 +1,13 @@
 {
-  "name": "YouTube Downloader Bot",
+  "name": "YouTube Downloader Bot from HARP Tech",
   "description": "A telegram bot To Download Youtube Files ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "logo": "https://telegra.ph/file/fd27683cf4c8e2b20a712.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
-  "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/OfficialBawwa/Youtube_Download_bot_from_HARP",
+  "success_url": "https://t.me/BawwaYTBot",
+  "website": "https://github.com/OfficialBawwa",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
