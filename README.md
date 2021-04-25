@@ -13,10 +13,11 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Dasun Pamod](https://telegram.dog/dasun_pamod) for his [Youtube Dl bot 😇](https://github.com/dasunpamod/Youtube-Downloader-Bot)
+* [Dasun Pamod](https://telegram.dog/dasun_pamod) for his Youtube Dl bot 😇
 
 
-## Contact me
+## Contact Us!
+* [HARP Tech](https://tme/HARP_Chat)
 * [Bawwa_Official](https://telegram.dog/Official_Bawwa)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialBawwa/Youtube_Download_bot_from_HARP)
